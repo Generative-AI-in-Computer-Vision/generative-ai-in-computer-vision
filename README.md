@@ -1,1 +1,1 @@
-# generative-ai-in-computer-vision
+# Generative AI in Computer Vision 📘
